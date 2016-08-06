@@ -1,0 +1,47 @@
+_repo: My-Brilliant-Career_11620
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Franklin, Miles
+    aliases:
+    - Franklin, Stella Maria Miles Lampe
+    - Franklin, Stella Maria Sarah Miles
+    birthdate: 1879
+    deathdate: 1954
+    gutenberg_agent_id: '4051'
+    url: http://www.gutenberg.org/2009/agents/4051
+    wikipedia: http://en.wikipedia.org/wiki/Miles_Franklin
+description: "My Brilliant Career is a 1901 novel written by Miles Franklin. It is\
+  \ the first of many novels by Stella Maria Sarah Miles Franklin (1879–1954), one\
+  \ of the major Australian writers of her time. It was written while she was still\
+  \ a teenager, as a romance to amuse her friends. Franklin submitted the manuscript\
+  \ to Henry Lawson who contributed a preface and took it to his own publishers in\
+  \ Edinburgh. The popularity of the novel in Australia and the perceived closeness\
+  \ of many of the characters to her own family and circumstances as small farmers\
+  \ in New South Wales near Goulburn caused Franklin a great deal of distress and\
+  \ led her to withdrawing the novel from publication until after her death.\nShortly\
+  \ after the publication of My Brilliant Career, Franklin wrote a sequel, My Career\
+  \ Goes Bung, which would not be published until 1946.\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11620'
+  wikidata: Q1249439
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Young women -- Fiction'
+- !lcsh 'Autobiographical fiction'
+- !lcsh 'Bildungsromans'
+- !lcsh 'Australia -- Fiction'
+- GITenberg
+title: My Brilliant Career
+url: http://www.gutenberg.org/ebooks/11620
+wikipedia:
+- https://en.wikiquote.org/wiki/Miles_Franklin
+- https://sh.wikipedia.org/wiki/My_Brilliant_Career
+- https://en.wikipedia.org/wiki/My_Brilliant_Career
