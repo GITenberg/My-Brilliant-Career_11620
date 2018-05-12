@@ -1,5 +1,8 @@
 _repo: My-Brilliant-Career_11620
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Franklin, Miles
@@ -22,6 +25,8 @@ description: "My Brilliant Career is a 1901 novel written by Miles Franklin. It 
   \ led her to withdrawing the novel from publication until after her death.\nShortly\
   \ after the publication of My Brilliant Career, Franklin wrote a sequel, My Career\
   \ Goes Bung, which would not be published until 1946.\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11620#My-Brilliant-Career
 gutenberg_bookshelf: Australia
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
